@@ -1,0 +1,20 @@
+{
+  "name": "05-node-workshop",
+  "version": "1.0.0",
+  "description": "Este es el Workshop 05 del Bootcampo Javascript Plataforma5",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabiolaLutrario/05-Node-Workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabiolaLutrario/05-Node-Workshop/issues"
+  },
+  "homepage": "https://github.com/FabiolaLutrario/05-Node-Workshop#readme"
+}
